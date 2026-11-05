@@ -8,7 +8,7 @@ Links:
 - [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 
 ## Information
-
+- You can also find my 2025 UMGC Minor of Business Law, Legal Studies, Communicaitons, Fedearl Courts (law and law enforcement) and Criminal Justice writings at this repository here: [My UMGC LGST BMGT COMM OTHER GitHub Repository](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main)
 ### Advanced Technical Writing
 This is about Advanced-Technical-Writing-Projects based on UMGC course and my inspirations for using the Steam's website. This is a project-based study of applied technical writing to design and develop appropriate and effective technical documents. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key. If UMGC sees that I have uploaded something I should not, let me know and I'll remove it.
 
