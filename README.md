@@ -12,6 +12,12 @@ Links:
 ### Advanced Technical Writing
 This is about Advanced-Technical-Writing-Projects based on UMGC course and my inspirations for using the Steam's website. This is a project-based study of applied technical writing to design and develop appropriate and effective technical documents. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key. If UMGC sees that I have uploaded something I should not, let me know and I'll remove it.
 
+### Related Coursework: PACE 111T – Program and Career Exploration in Technology
+PACE 111T focuses on academic and career planning, professional development, communication, teamwork, and exploring technology career pathways. It complements Technical Writing through UMGC's emphasis on academic communication, professionalism, and career readiness.
+- **Repository Note:** PACE 111T assignments are organized in a related subfolder because the coursework connects with Technical Writing and UMGC's academic requirements.
+- **Academic Integrity:** All uploaded assignments are my own submissions. No answer keys, instructor solutions, or answer-key materials are included. All work is shared for educational reference and reflects my individual efforts.
+
+
 
 ### Textbooks
 - Technical Writing books that are on Google and Wikipedia.
