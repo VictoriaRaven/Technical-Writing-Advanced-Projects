@@ -1,16 +1,16 @@
 # Advanced-Technical-Writing-Projects
 ## Copyright Usage and License
 
-Regarding Copyright laws by GitHub it states that a public repository without a license means that if you want to use my code you must fork my repository as I retain all proprietary rights.
+GitHub copyright policy states that a public repository without a license means that if you want to use my code, you must fork my repository, as I retain all proprietary rights.
 
 Links:  
 - [GitHub Copyright and Licenses](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 - [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 
 ## Information
-- You can also find my 2025 UMGC Minor of Business Law, Legal Studies, Communicaitons, Fedearl Courts (law and law enforcement) and Criminal Justice writings at this repository here: [My UMGC LGST BMGT COMM OTHER GitHub Repository](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main)
+- You can also find my 2025 UMGC Minor of Business Law, Legal Studies, Communications, Federal Courts (law and law enforcement) and Criminal Justice writings in this repository here: [My UMGC LGST BMGT COMM OTHER GitHub Repository](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main)
 ### Advanced Technical Writing
-This is about Advanced-Technical-Writing-Projects based on UMGC course and my inspirations for using the Steam's website. This is a project-based study of applied technical writing to design and develop appropriate and effective technical documents. Under the copyright and policies of intellectual property for UMGC, I will only upload items that do not have an answer key. If UMGC sees that I have uploaded something I should not, let me know and I'll remove it.
+This is about Advanced Technical Writing projects based on the UMGC course and my inspiration from the Steam website. This project-based study applies technical writing to design and develop appropriate, effective technical documents. Under UMGC's copyright and intellectual property policies, I will only upload items without an answer key. If UMGC notices I uploaded something I shouldn't, let me know and I'll remove it.
 
 ### Related Coursework: PACE 111T – Program and Career Exploration in Technology
 PACE 111T focuses on academic and career planning, professional development, communication, teamwork, and exploring technology career pathways. It complements Technical Writing through UMGC's emphasis on academic communication, professionalism, and career readiness.
